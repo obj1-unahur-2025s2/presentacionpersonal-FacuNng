@@ -4,10 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+Holaa, mi nombre es Facundo Gangemi, soy de Moron y estoy estudiando la tecnicatura de Programacion de Videojuegos.
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+Esta es mi primera vez cursando esta materia y usando GitHub 
